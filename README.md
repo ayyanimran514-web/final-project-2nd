@@ -322,7 +322,7 @@ Developer / Project Team Member
 
 🔗 Important Links
 
-🌐 Live Website: final-project-2nd.vercel.app
+🌐 Live Website: https://final-project-2nd.vercel.app
 
 💼 M. Arhum Siddiqui — LinkedIn: https://www.linkedin.com/in/mohammad-arhum-siddiqui-94983642-a/
 
