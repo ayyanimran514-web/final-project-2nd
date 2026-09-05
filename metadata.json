@@ -1,0 +1,6 @@
+{
+  "name": "BUYLY - Custom Merch & Streetwear Studio",
+  "description": "Premium streetwear store and interactive custom studio featuring real-time product color customization, admin dashboard, animated intro, and live apparel mockup studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
